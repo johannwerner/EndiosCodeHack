@@ -1,0 +1,6 @@
+framework module Pods_RickAndMortySwiftUI {
+  umbrella header "Pods-RickAndMortySwiftUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
